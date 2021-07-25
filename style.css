@@ -1,0 +1,62 @@
+body{
+	background-color: #000000;
+}
+.main{
+	background-color: #171717;
+}
+.name h3{
+	color: #FFFFFF;
+}
+.name p{
+	color: #A2A2A2;
+}
+.update i{
+	color: #fff;
+	font-size: 50px;
+	margin-top: 10px;
+}
+.update-text{
+	line-height: 15px;
+	color: #fff;
+	margin-top: 10px;
+}
+.update-text h5{
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+.update-text p{
+    font-size: 10px;
+    color: #A2A2A2;
+}
+
+										/* Item */
+
+.icon-item{
+    padding: 0px 20px;
+}
+.icon-item i{
+    font-size: 40px;
+    color: blue;
+}
+.icon-text{
+    padding: 0px 25px;
+    line-height: 1;
+}
+.icon-text h3{
+    font-size: 20px;
+    color: #FFF;
+}
+.icon-text p{
+    font-size: 14px;
+    color: #A2A2A2;
+}
+.box:hover{
+	background-color: rgb(27, 27, 27);
+	transition: .4s;
+}
+.box{
+	width: 100%;
+    padding: 20px 5px;
+    height: 110px;
+   }
